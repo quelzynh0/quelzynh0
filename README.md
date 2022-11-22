@@ -1,7 +1,7 @@
 Hi there 👋
 
 
--Algumas soluções desenvolvidas 
+-Algumas soluções pessoais desenvolvidas 
 
 [MyCancelador](https://github.com/quelzynh0/MyCancelador)
 
