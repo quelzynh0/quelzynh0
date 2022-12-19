@@ -1,6 +1,6 @@
 Olá, me chamo Ezequiel Marinho👋
 
-Aprendendo para se tornar um desenvolvedor web full-stack.
+Aprendendo para me tornar um desenvolvedor web full-stack.
 
 ## Projetos em destaque - Web
 
