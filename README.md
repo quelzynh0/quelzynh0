@@ -1,10 +1,14 @@
-Hi there 👋
+Olá, me chamo Ezequiel Marinho👋
 
+Aprendendo para se tornar um desenvolvedor web full-stack.
 
--Algumas soluções pessoais desenvolvidas 
+## Projetos em destaque - Web
 
-[MyCancelador](https://github.com/quelzynh0/MyCancelador)
+- Receitas: [site](https://quelzynh0.github.io/odin-recipes/)  /  [repo](https://github.com/quelzynh0/odin-recipes)
+- Landing Page: [site](https://quelzynh0.github.io/landing-page/)  /  [repo](https://github.com/quelzynh0/landing-page)
 
-[MyAgendador](https://github.com/quelzynh0/MyAgendador)
+## Projetos em destaque - Python
 
-[Bot_Telegram](https://github.com/quelzynh0/bot_telegram)
+- MyCancelador: [repo](https://github.com/quelzynh0/MyCancelador)
+- MyAgendador: [repo](https://github.com/quelzynh0/MyAgendador)
+- bot_telegram: [repo](https://github.com/quelzynh0/bot_telegram)
