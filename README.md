@@ -4,9 +4,9 @@ Aprendendo para me tornar um desenvolvedor web full-stack.
 
 ## Projetos em destaque - Web
 
-- Receitas: [site](https://quelzynh0.github.io/odin-recipes/)  /  [repo](https://github.com/quelzynh0/odin-recipes)
-- Landing Page: [site](https://quelzynh0.github.io/landing-page/)  /  [repo](https://github.com/quelzynh0/landing-page)
+- Landing Page 1: [site](https://quelzynh0.github.io/landing-page/)  /  [repo](https://github.com/quelzynh0/landing-page)
 - Landing Page 2: [site](https://quelzynh0.github.io/landing-page-2/)  /  [repo](https://github.com/quelzynh0/landing-page-2)
+- Landing Page 3 (responsivo): [site](https://quelzynh0.github.io/landing-page-3/)  /  [repo](https://github.com/quelzynh0/landing-page-3)
 
 ## Projetos em destaque - Python
 
