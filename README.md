@@ -1,6 +1,6 @@
 ## Olá, me chamo Ezequiel Marinho👋
 
-Atualmente estou empenhado em aprender a cada dia mais sobre **desenvolvimento**, com bons conhecimentos de **Python**. Ansioso para se juntar a uma equipe e ajudar em projetos interessantes!
+Com bons conhecimentos de **Python**, atualmente estou empenhado em aprender a cada dia mais sobre **desenvolvimento web**. Ansioso para se juntar a uma equipe e ajudar em projetos interessantes!
 
 🌐 **[LinkedIn](https://www.linkedin.com/in/ezequiel-marinho-345410128/)**
 
